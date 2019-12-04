@@ -3,7 +3,7 @@
 // Author      : leabut
 // Version     :
 // Copyright   : None
-// Description : Day02 of AoC Challange 2019
+// Description : Day03 of AoC Challange 2019
 //============================================================================
 
 #include <iostream>
